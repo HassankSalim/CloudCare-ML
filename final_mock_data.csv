@@ -1,17 +1,11 @@
 Name,Address,Diagnosis,Symptom
 Dr Robert Caldwell,North Mark,Aphakia,Visual problems
-Dr Jonathon Hartman,East Janeton,Scorpion sting,
-Dr Paula Moon,Stevenborough,Vocal cord paralysis voice box weakness,
 Dr Kathy Johnson,Port Rachel,Retinitis pigmentosa,Visual problems
-Dr Michael Davis,Port Rachel,Pernicious anemia vitamin deficiency blood disorder,
-Dr Jonathon Hartman,Lake Heatherburgh,"Neisseria meningitidis infection Neisseria meningitidis meningococcus, serious bacterial illness",
 Dr Michael Davis,Port Rachel,Coronary artery anomaly heart artery malformation,"Heart pulsations and palpitations,Inconsolable baby"
 Dr Carol Roberts,Lake Kristi,Adenoiditis (a type of lymph node inflammation),Snoring
-Dr Michael Davis,Port Rachel,Mallet finger finger tendon rupture,
 Dr Michael Davis,Daltonchester,Ankylosing spondylitis  (severe spine arthritis),"Back ache or pain,Neck ache or pain,Low back ache or pain"
 Dr Michael Smith,Parsonschester,Bladder cancer,"Frequent urination (Frequency),Blood in urine (Hematuria),Urinary retention (Inability to urinate)"
 Dr Robert Caldwell,Parsonschester,Hemochromatosis excess iron disorder,"Weight loss, unexplained,Jaundice (Yellowing skin),Low heart rate"
-Dr Paula Moon,South Wendy,Tylenol  acetaminophen poisoning,
 Dr Mr. Stephen Taylor,Port Rachel,Metastatic neoplasm cancer spread,"Pain or soreness of breast,Leg ache or pain,Skin sores"
 Dr Michael Smith,Lake Kristi,Pityriasis rosea inflammatory skin rash,"Rash,Itchy rash (Pruritic rash),Arm itching,Foot itching,Foot redness,Hand redness,Arm redness,Hand itching,Skin itching,Skin sores"
 Dr Paula Moon,Stevenborough,Temporal arteritis inflamed scalp artery,"Double vision (Diplopia),Eye pain (Irritation),Facial pain,Headache,Visual problems"
@@ -22,7 +16,6 @@ Dr Kathy Johnson,Parsonschester,Parkinson's disease movement disorder,"Unsteady 
 Dr Michael Smith,Lake Kristi,"Brain arteriovenous malformation blood vessel abnormality in the brain, AVM Arteriovenous malformation of brain","Headache and weakness,Confusion and headache"
 Dr Michael Davis,East Janeton,Splenic infarction death of spleen,"Upper abdominal pain,Chest pain"
 Dr Robert Caldwell,Daltonchester,Parotitis salivary gland inflammation,"Facial pain,Jaw pain,Ear pressure"
-Dr Kyle Banks,Lake Kristi,Histoplasmosis fungal infection,
 Dr Michael Smith,South Wendy,Alzheimer's disease dementia,"Change in behavior,Confusion"
 Dr Robert Caldwell,East Janeton,Meralgia Paresthetica,"Leg ache or pain,Leg numbness (paresthesias)"
 Dr Crystal Davis,Parsonschester,Influenza seasonal flu,"Chills,Fever,Muscle pain,Tired,Sore throat,Cough,Nasal congestion,Headache,Shortness of breath,Vomiting,Throat pain,Chest pain"
@@ -31,11 +24,9 @@ Dr Crystal Davis,Stevenborough,Nasopharyngeal carcinoma tumor,Double vision (Dip
 Dr Kathy Johnson,Lake Kristi,Shingles herpes zoster,"Chest pressure,Facial pain,Skin itching,Painful rash,Jaw pain,Arm itching,Foot itching,Hand redness,Foot redness,Arm redness,Hand itching,Armpit pain,Skin sores,Face numbness (paresthesias),Upper abdominal pain,Back ache or pain,Pain or soreness of breast,Flank pain,Kidney pain (Flank pain),Neck ache or pain,Rash,Chest pain"
 Dr Kathy Johnson,Russellbury,Post concussive syndrome symptoms after a concussion,"Learning difficulties,Dizziness,Headache,Vomiting"
 Dr Kathy Johnson,East Janeton,Allergic conjunctivitis allergic reaction in the eye,"Eye pain (Irritation),Eye redness"
-Dr Michael Davis,Daltonchester,Viral exanthem rash from viral infection,
 Dr Paula Moon,Lake Kristi,Sexually transmitted disease STD,"Lower abdominal pain,Skin itching"
 Dr Michael Smith,Lake Kristi,Rabies deadly viral illness transmitted by animals,Confusion and headache
 Dr Mr. Stephen Taylor,Stevenborough,Basal cell carcinoma skin cancer,Skin sores
-Dr Kathy Johnson,South Wendy,Nail avulsion traumatic removal of nail,
 Dr Mr. Stephen Taylor,Russellbury,Smoke inhalation,"Shortness of breath,Dizziness,Fainting"
 Dr Kyle Banks,Stevenborough,Benign positional vertigo sensation of spinning,"Vertigo (Room spinning),Dizziness"
 Dr Jonathon Hartman,Stevenborough,"Impingement syndrome of shoulder bone rubs again tendon, bursa",Shoulder ache or pain
@@ -44,32 +35,27 @@ Dr Robert Caldwell,North Mark,Anxiety disorder generalized anxiety disorder GAD,
 Dr Michael Smith,Parsonschester,Diabetes high blood sugar,"Lethargy (Sluggishness),Visual problems,Tired,Weight loss, unexplained,Failure to thrive,Urinary retention (Inability to urinate),Frequent urination (Frequency),Numbness,Hand numbness (paresthesias),Impotence,Eye floaters,Arm itching,Foot itching,Hand itching,Arm numbness (paresthesias),Leg numbness (paresthesias),Foot numbness (paresthesias),Face numbness (paresthesias),Confusion"
 Dr Kathy Johnson,East Janeton,Human papillomavirus infection HPV,Vaginal pain
 Dr Kyle Banks,Port Rachel,Lymphangitis lymph tissue inflammation,"Chills,Arm swelling,Armpit pain,Pain or soreness of breast,Pain in the ear,Rash,Skin sores"
-Dr Michael Davis,Parsonschester,Bunion of big toe hallux valgus,
 Dr Robert Caldwell,North Mark,Kidney cancer tumor,"Kidney pain (Flank pain),Blood in urine (Hematuria),Hot flashes,Flank pain"
 Dr Mr. Stephen Taylor,South Wendy,Alcohol  ethanol abuse,"Lethargy (Sluggishness),Vertigo (Room spinning),Weight loss, unexplained,Snoring,Confusion"
 Dr Michael Davis,Daltonchester,Hidradenitis suppurativa chronic collections of pus,"Armpit pain,Pain or soreness of breast,Rash,Skin sores"
 Dr Mr. Stephen Taylor,Russellbury,Rotavirus infection intestinal viral infection,Fever in the returning traveler
 Dr Jonathon Hartman,Lake Kristi,Sepsis serious blood infection,"Inconsolable baby,Dizziness,Fainting,Fever,Shortness of breath,Confusion"
 Dr Mr. Stephen Taylor,North Mark,Lymphedema lymphatic obstruction,"Leg ache or pain,Skin sores"
-Dr Michael Smith,Lake Kristi,Volvulus twisted intestine,
 Dr Jonathon Hartman,Stevenborough,Hypoparathyroidism,"Shortness of breath,Anxiety (Nervousness),Low heart rate"
 Dr Michael Davis,Russellbury,Addison's disease adrenal insufficiency,"Fainting,Muscle pain,Low back ache or pain"
 Dr Kathy Johnson,North Mark,Corneal foreign body object in the eye,"Eye pain (Irritation),Visual problems,Eye redness,Blurry vision"
 Dr Robert Caldwell,North Mark,Paget disease of the bone paget's disease of the bone,"Leg ache or pain,Headache,Arm ache or pain,Leg numbness (paresthesias),Arm numbness (paresthesias),Back ache or pain"
 Dr Carol Roberts,East Janeton,Normal menstruation,Vaginal bleeding
 Dr Kyle Banks,Daltonchester,Cervicitis inflammation of the lower uterus,"Vaginal bleeding,Lower abdominal pain,Stomach and abdominal pain"
-Dr Paula Moon,South Wendy,Shin splints tibial stress syndrome,
 Dr Jonathon Hartman,South Wendy,Sickle cell disease disease of red blood cells,"Blood in urine (Hematuria),Arm ache or pain,Back ache or pain,Pain or soreness of breast,Leg ache or pain,Chest pain,Low back ache or pain"
 Dr Robert Caldwell,Lake Kristi,Amaurosis fugax momentary vision loss in one eye,Visual problems
 Dr Kyle Banks,Parsonschester,Hearing loss,"Ringing in ears (Tinnitus),Pain in the ear"
 Dr Jonathon Hartman,Port Rachel,Testicular hypofunction,Impotence
 Dr Paula Moon,Lake Heatherburgh,Campylobacter infection intestinal bacterial infection,Fever in the returning traveler
 Dr Kyle Banks,Russellbury,Colon cancer large intestine tumor,Abdominal swelling (Stomach swelling)
-Dr Robert Caldwell,Stevenborough,Patellar knee cap tendon rupture,
 Dr Paula Moon,Daltonchester,Colonic diverticulitis inflammation of pouches in the large intestine,"Lower abdominal pain,Flank pain,Stomach and abdominal pain,Upper abdominal pain,Back ache or pain,Kidney pain (Flank pain)"
 Dr Carol Roberts,Lake Kristi,Cataracts clouding of the eye lens,Visual problems
 Dr Robert Caldwell,Lake Heatherburgh,Frozen shoulder  (adhesive capsulitis of shoulder),"Shoulder ache or pain,Arm ache or pain,Neck ache or pain"
-Dr Michael Smith,Lake Kristi,Renal artery stenosis kidney artery narrowing,
 Dr Jonathon Hartman,Lake Heatherburgh,Foot ulcer,"Foot redness,Skin sores,Fever"
 Dr Michael Smith,North Mark,Malignant hyperthermia rare temperature abnormality,"Change in behavior,Confusion"
 Dr Paula Moon,Parsonschester,Generalized seizure disorder generalized epilepsy,"Seizure,Seizure,Tremors,Incontinence (leaking urine)"
@@ -78,8 +64,6 @@ Dr Carol Roberts,Lake Heatherburgh,Bullous myringitis middle ear infection,"Ear 
 Dr Jonathon Hartman,East Janeton,"Narcotic morphine, heroin overdose","Overdose,Poisoning"
 Dr Crystal Davis,Lake Kristi,"Sprain stretched, torn ligament",Swelling of both legs
 Dr Paula Moon,North Mark,Presbyopia aging vision,"Visual problems,Headache"
-Dr Michael Smith,East Janeton,Puncture wound of knee,
-Dr Michael Davis,Lake Heatherburgh,Diabetes insipidus excessive water loss from the kidneys,
 Dr Carol Roberts,Parsonschester,Familial dysautonomia genetic disorder,"Vomiting,Seizure,Choking,Failure to thrive,Fainting,Shortness of breath"
 Dr Michael Smith,Lake Heatherburgh,Rectocele,Back ache or pain
 Dr Robert Caldwell,Lake Heatherburgh,Mouth cancer oropharyngeal cancer,"Speech problem,Mouth pain,Neck swelling,Sore throat,Swallowing problem (Dysphagia),Throat pain,Mouth ulcers,Mouth swelling,Swollen gums"
@@ -87,9 +71,7 @@ Dr Jonathon Hartman,Parsonschester,"Sprain stretched, torn ligament",Swelling of
 Dr Michael Davis,Russellbury,"Amyotrophic lateral sclerosis ALS, Lou Gehrig's disease",Tremors
 Dr Michael Smith,Daltonchester,Sea lice bite,"Itchy rash (Pruritic rash),Foot itching,Hand redness,Foot redness,Foot redness,Arm redness,Hand itching"
 Dr Jonathon Hartman,East Janeton,Stomach cancer gastric cancer,"Weight loss, unexplained,Vomiting coffee ground material,Blood in vomit,Stomach and abdominal pain,Upper abdominal pain"
-Dr Robert Caldwell,Stevenborough,Puncture wound of eyelid,
 Dr Michael Smith,Port Rachel,Malnutrition,"Lethargy (Sluggishness),Failure to thrive,Amenorrhea (No menstruation),Swollen gums,Infertility (Female),Tired"
-Dr Michael Davis,South Wendy,Mittelschmerz ovulation pain,
 Dr Robert Caldwell,North Mark,Pheochromocytoma adrenal gland tumor,Hot flashes
 Dr Michael Davis,Russellbury,Cancer tumor,"Fever of unknown origin,Swelling of both legs,Lethargy (Sluggishness),Tired,Weight loss, unexplained,Failure to thrive,Jaw pain,Abdominal swelling (Stomach swelling),Armpit pain,Leg numbness (paresthesias),Arm numbness (paresthesias),Hand numbness (paresthesias),Foot numbness (paresthesias),Face numbness (paresthesias),Facial droop (weakness)"
 Dr Crystal Davis,Lake Kristi,Langerhans cell histiocytosis Histiocytosis X,"Arm ache or pain,Leg ache or pain,Shortness of breath,Rash,Cough"
@@ -101,11 +83,8 @@ Dr Kyle Banks,Russellbury,Child abuse,"Inconsolable baby,Learning difficulties"
 Dr Paula Moon,Lake Heatherburgh,Tension headache stress headache,"Headache,Neck ache or pain"
 Dr Mr. Stephen Taylor,Russellbury,Amphetamine abuse,"Delusions or hallucinations,Insomnia (Trouble sleeping),Anxiety (Nervousness),Dizziness,Headache,Substance abuse (Drug abuse)"
 Dr Jonathon Hartman,Russellbury,Cerumen impaction ear wax buildup,"Ear pressure,Pain in the ear,Ringing in ears (Tinnitus)"
-Dr Michael Smith,East Janeton,Invasive lobular carcinoma,
 Dr Carol Roberts,South Wendy,Lymphedema lymphatic obstruction,"Leg ache or pain,Skin sores"
-Dr Kathy Johnson,Port Rachel,Breast cyst,
 Dr Michael Davis,North Mark,"Wegener's granulomatosis granulomatosis with polyangiitis,  blood vessel disease","Nasal bleeding,Hemoptysis (Coughing blood)"
 Dr Jonathon Hartman,Lake Heatherburgh,Leptospirosis bacterial infection,Fever in the returning traveler
-Dr Michael Smith,North Mark,Puncture wound,
 Dr Paula Moon,Lake Heatherburgh,Rubbing isopropyl alcohol overdose,Poisoning
 Dr Michael Davis,Russellbury,Inflammatory conditions,Fever of unknown origin
